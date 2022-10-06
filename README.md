@@ -8,6 +8,8 @@ Instrucciones:
 3. 4. Abrir el proyecto en visual estudio 
 4. Actualizar las credenciales de la base de datos en el archivo dentro del repositorio para que no tengan problemas al correr el proyecto, en la imagen se muestra el archivo y la ubicación dentro del repo.
 ![image](https://user-images.githubusercontent.com/38962063/194182745-1b0cf509-46fa-4917-b374-a08b63540c21.png)
+![image](https://user-images.githubusercontent.com/38962063/194189243-7688f989-65ea-4e15-aaad-4d7f7fcb354e.png)
+
 5. Abrir el termial de comandos y escribir el comando "npm run develop"
 ![image](https://user-images.githubusercontent.com/38962063/194183138-4ee2b5fd-d5ae-4cd1-877d-64b7567c37d9.png)
 6. el servidor va a correrse automaticamente si no hay conflictos con las credenciales de la base de datos.  
