@@ -21,15 +21,19 @@ En el caso de ustedes les pedira crear un usuario, en mi caso ya tengo un usuari
 
 Una vez adentro vamos a la opción Content type builder:
 ![image](https://user-images.githubusercontent.com/38962063/194191239-0d714c91-8c6d-40ff-8d4d-801e230323de.png)
+
 Allí podremos crear una tabla para nuestra base de datos de forma interactiva.
 ![image](https://user-images.githubusercontent.com/38962063/194191301-0ffad5b0-0110-4e6b-8597-e9f5e2312360.png)
+
 Creamos la tabla "Persona" y le agregamos 3 campos y sus respectivos tipos.
 ![image](https://user-images.githubusercontent.com/38962063/194191394-9b690b5d-fea9-4d16-a679-a5d8c8cb432a.png)
 
 Seguido a esto, vamos a content manager y agregamos registros a la tabla Con el boton de la esquina que dice "Create new entry":
 ![image](https://user-images.githubusercontent.com/38962063/194191477-ab7653fa-9bf2-408d-ad5e-3167460ca895.png)
+
 Estos registros deben aparecer en la base de datos que creamos en PostgreSQL:
 ![image](https://user-images.githubusercontent.com/38962063/194191672-7c45a753-721f-4da2-a3b6-fe18e8f46119.png)
+
 Seguido a esto volvemos a Strapi y vamos a "settings" -> "Roles" -> "Public" y  Desplegamos las opciones debajo de la tabla que creamos (Persona):
 y habilitamos todaslas peticiones a la base de datos como en la imagen:
 ![image](https://user-images.githubusercontent.com/38962063/194191854-e00172f0-85a0-47c9-b819-0bbe23784fc8.png)
