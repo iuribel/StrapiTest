@@ -1,3 +1,7 @@
+
+Video de prueba del programa:
+https://drive.google.com/file/d/180znXVeE4ks6Om2_hXt1txOBnwI5I-nB/view?usp=sharing
+
 Instrucciones:
 1. clonar este proyecto en alguna carpeta de su computador 
 2. Crear una base de datos en PostgreSQL llamada "users"
